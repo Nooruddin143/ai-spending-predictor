@@ -1,17 +1,57 @@
 Date,Category,Amount,Description
+2025-01-02,Food,240,Groceries
+2025-01-05,Transport,95,Gas
+2025-01-10,Rent,1150,January rent
+2025-01-18,Entertainment,120,Movies
+2025-01-25,Utilities,180,Electricity bill
+2025-02-03,Food,255,Groceries
+2025-02-08,Transport,100,Gas
+2025-02-10,Rent,1150,February rent
+2025-02-16,Healthcare,220,Doctor visit
+2025-02-22,Entertainment,150,Concert ticket
+2025-03-01,Food,270,Groceries
+2025-03-06,Transport,105,Gas
+2025-03-10,Rent,1180,March rent
+2025-03-14,Utilities,175,Water bill
+2025-03-20,Shopping,340,Clothes
+2025-04-02,Food,260,Groceries
+2025-04-07,Transport,110,Gas
+2025-04-10,Rent,1180,April rent
+2025-04-18,Entertainment,200,Theme park
+2025-04-25,Utilities,190,Internet bill
 2025-05-03,Food,260,Groceries
 2025-05-12,Rent,1200,May rent
+2025-05-18,Transport,115,Gas
+2025-05-22,Shopping,400,Electronics
 2025-06-05,Food,280,Groceries
 2025-06-15,Transport,110,Gas
+2025-06-20,Utilities,210,Electricity bill
 2025-07-02,Food,300,Groceries
 2025-07-10,Rent,1250,July rent
+2025-07-18,Entertainment,180,Sports event
+2025-07-25,Healthcare,300,Dental checkup
 2025-08-05,Food,290,Groceries
 2025-08-14,Transport,120,Gas
+2025-08-20,Shopping,450,Furniture
+2025-08-28,Utilities,200,Internet bill
 2025-09-03,Food,310,Groceries
 2025-09-10,Rent,1300,September rent
+2025-09-18,Entertainment,220,Concert
+2025-09-25,Healthcare,260,Medical test
 2025-10-05,Food,330,Groceries
 2025-10-15,Transport,140,Gas
+2025-10-22,Shopping,380,Appliances
+2025-10-28,Utilities,210,Water bill
 2025-11-02,Food,350,Groceries
 2025-11-10,Rent,1350,November rent
+2025-11-18,Entertainment,250,Vacation booking
+2025-11-25,Healthcare,320,Specialist visit
 2025-12-05,Food,370,Groceries
 2025-12-15,Transport,150,Gas
+2025-12-20,Shopping,500,Holiday gifts
+2025-12-28,Utilities,230,Electricity bill
+2026-01-03,Food,380,Groceries
+2026-01-10,Rent,1400,January rent
+2026-01-15,Transport,160,Gas
+2026-01-22,Entertainment,300,New Year party
+2026-01-30,Healthcare,280,Pharmacy
